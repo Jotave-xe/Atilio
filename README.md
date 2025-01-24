@@ -3,7 +3,7 @@
 #include <string>
 #include <fstream>
 
-struct Node {
+struct Node{
     Node* direita;
     Node* abaixo;
     int linha;
